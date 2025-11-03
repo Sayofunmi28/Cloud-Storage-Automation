@@ -1,0 +1,5 @@
+      - name: Upload logs as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: storage-logs
+          path: storage_actions.log
