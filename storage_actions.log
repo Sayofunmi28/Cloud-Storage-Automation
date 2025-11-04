@@ -1,0 +1,6 @@
+2025-11-03 15:39:52 - Creating resource group: fileStorageRG
+2025-11-03 15:40:18 - Creating storage account: filestor94848f
+2025-11-03 15:40:59 - Creating container: publiccontainer (public access)
+2025-11-03 15:41:03 - Storage setup complete!
+2025-11-03 15:52:10 - Uploading myphoto.png...
+2025-11-03 20:49:18 - Listing files in container...
